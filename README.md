@@ -21,7 +21,7 @@ By leveraging **Convolutional Neural Networks (CNNs)**, the model learns to anal
 
 ---
 
-## 📂 Repository Structure
+##  <img src="https://github.com/user-attachments/assets/f3dcee8e-e008-457a-97fb-d3848b425713" height="30px" style="vertical-align:text-bottom;">  Repository Structure
 ```bash
 project-name/
 ├── 📁 dataset/          # Training & testing pedigree chart datasets
